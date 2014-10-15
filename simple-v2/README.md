@@ -1,5 +1,5 @@
-The Android Simple.com app updated and the UI looks way different.  I'm not sure when the actual update occurred, but I've 
-written 4 simple Selendroid tests to demonstrate my skill with Android app automation.
+The Simple.com Android app recently updated to version 2.1.1 and the UI looks way different.  I'm not sure when the actual 
+update occurred, but I've written 4 simple Selendroid tests to demonstrate my skill with Android app automation.
 
 
 As before, these require the following jars to run:
