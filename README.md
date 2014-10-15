@@ -9,5 +9,6 @@ Tests included are:
 	- Java/Selendroid code to test the 
 [Simple.com](https://play.google.com/store/apps/details?id=com.banksimple) app
 
-- [simple-v2](simple-v2/) - Java/Selendroid code to test the 2.1.1 
+- [simple-v2](simple-v2/) 
+	- Java/Selendroid code to test the 2.1.1 
 [Simple.com](https://play.google.com/store/apps/details?id=com.banksimple) app
